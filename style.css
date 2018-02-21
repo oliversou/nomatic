@@ -1,0 +1,49 @@
+body{
+  background-image: url(//cdn.shopify.com/s/files/1/0745/1299/t/9/assets/homepage-2017-divider.jpg?5279578606018992415);
+}
+
+.img-top{
+  background-image: "images/image1.";
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+/* Centered text */
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.top-large{
+  font-size: 100px;
+  position: center;
+}
+.top-small{
+
+}
+.divider{
+  background-color: #2e2e30;
+  background-image: url(//cdn.shopify.com/s/files/1/0745/1299/t/9/assets/homepage-2017-divider.jpg?5279578606018992415);
+  background-position: center center;
+  background-repeat: repeat-x;
+  background-size: cover;
+  padding-bottom: 3%;
+  width: 100%;
+}
+
+
+.footer-background {
+  background-color: #292929;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: white;
+}
+
+
+
